@@ -1,0 +1,29 @@
+body {
+    font-family: sans-serif;
+    background-color: #35D2AB;
+}
+h1{
+   text-align: center;
+   background-color: #A63E00;
+   border: 5px dotted black;
+   color: white;
+}
+h1:hover{
+  background-color: #BFA730;
+  color: aqua;
+}
+main p{ 
+  padding: 50px;
+  background-color: azure;
+  border-radius: 20px;
+  margin: 40px;
+}
+header{
+  background-color: white;
+}
+main p:hover{
+  background-color: #BFA730;
+  color: black;
+  padding: 30px;
+  margin: 50px;
+}
